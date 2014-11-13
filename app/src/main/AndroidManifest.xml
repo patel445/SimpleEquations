@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="simpleequationss.example.jay.simpleequationss" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="simpleequationss.example.jay.simpleequationss.SimpleEquations"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="simpleequationss.example.jay.simpleequationss.GeoEquations"
+            android:label="@string/title_activity_geo_equations" >
+        </activity>
+        <activity
+            android:name="simpleequationss.example.jay.simpleequationss.AreaEquations"
+            android:label="@string/title_activity_area_equations" >
+        </activity>
+        <activity
+            android:name="simpleequationss.example.jay.simpleequationss.TriangleArea"
+            android:label="@string/title_activity_triangle_area" >
+        </activity>
+        <activity
+            android:name="simpleequationss.example.jay.simpleequationss.EquilateralTriangleArea"
+            android:label="@string/title_activity_equilateral_triangle_area" >
+        </activity>
+        <activity
+            android:name="simpleequationss.example.jay.simpleequationss.TrapezoidArea"
+            android:label="@string/title_activity_trapezoid_area" >
+        </activity>
+        <activity
+            android:name="simpleequationss.example.jay.simpleequationss.CircleArea"
+            android:label="@string/title_activity_circle_area" >
+        </activity>
+        <activity
+            android:name="simpleequationss.example.jay.simpleequationss.EllipseArea"
+            android:label="@string/title_activity_ellipse_area" >
+        </activity>
+        <activity
+            android:name="simpleequationss.example.jay.simpleequationss.SATriangle"
+            android:label="@string/title_activity_satriangle" >
+        </activity>
+        <activity
+            android:name="simpleequationss.example.jay.simpleequationss.SARectangle"
+            android:label="@string/title_activity_sarectangle" >
+        </activity>
+        <activity
+            android:name="simpleequationss.example.jay.simpleequationss.SACube"
+            android:label="@string/title_activity_sacube" >
+        </activity>
+        <activity
+            android:name="simpleequationss.example.jay.simpleequationss.SASphere"
+            android:label="@string/title_activity_sasphere" >
+        </activity>
+        <activity
+            android:name="simpleequationss.example.jay.simpleequationss.SACylinder"
+            android:label="@string/title_activity_sacylinder" >
+        </activity>
+        <activity
+            android:name="simpleequationss.example.jay.simpleequationss.VolumeEquations"
+            android:label="@string/title_activity_volume_equations" >
+        </activity>
+        <activity
+            android:name="simpleequationss.example.jay.simpleequationss.CubeVolume"
+            android:label="@string/title_activity_cube_volume" >
+        </activity>
+        <activity
+            android:name="simpleequationss.example.jay.simpleequationss.RectPrismVolume"
+            android:label="@string/title_activity_rect_prism_volume" >
+        </activity>
+        <activity
+            android:name="simpleequationss.example.jay.simpleequationss.IrregularVolume"
+            android:label="@string/title_activity_irregular_volume" >
+        </activity>
+        <activity
+            android:name="simpleequationss.example.jay.simpleequationss.CylinderVolume"
+            android:label="@string/title_activity_cylinder_volume" >
+        </activity>
+        <activity
+            android:name="simpleequationss.example.jay.simpleequationss.PyramidVolume"
+            android:label="@string/title_activity_pyramid_volume" >
+        </activity>
+        <activity
+            android:name="simpleequationss.example.jay.simpleequationss.ConeVolume"
+            android:label="@string/title_activity_cone_volume" >
+        </activity>
+        <activity
+            android:name="simpleequationss.example.jay.simpleequationss.SphereVolume"
+            android:label="@string/title_activity_sphere_volume" >
+        </activity>
+        <activity
+            android:name="simpleequationss.example.jay.simpleequationss.EllipsoidVolume"
+            android:label="@string/title_activity_ellipsoid_volume" >
+        </activity>
+    </application>
+
+</manifest>

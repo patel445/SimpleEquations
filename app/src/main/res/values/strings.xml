@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SimpleEquations</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_geo_equations">GeoEquations</string>
+    <string name="title_activity_area_equations">AreaEquations</string>
+    <string name="title_activity_triangle_area">TriangleArea</string>
+    <string name="title_activity_equilateral_triangle_area">EquilateralTriangleArea</string>
+    <string name="title_activity_trapezoid_area">TrapezoidArea</string>
+    <string name="title_activity_circle_area">CircleArea</string>
+    <string name="title_activity_ellipse_area">EllipseArea</string>
+    <string name="title_activity_satriangle">SATriangle</string>
+    <string name="title_activity_sarectangle">SARectangle</string>
+    <string name="title_activity_sacube">SACube</string>
+    <string name="title_activity_sasphere">SASphere</string>
+    <string name="title_activity_sacylinder">SACylinder</string>
+    <string name="title_activity_volume_equations">VolumeEquations</string>
+    <string name="title_activity_cube_volume">CubeVolume</string>
+    <string name="title_activity_rect_prism_volume">RectPrismVolume</string>
+    <string name="title_activity_irregular_volume">IrregularVolume</string>
+    <string name="title_activity_cylinder_volume">CylinderVolume</string>
+    <string name="title_activity_pyramid_volume">PyramidVolume</string>
+    <string name="title_activity_cone_volume">ConeVolume</string>
+    <string name="title_activity_sphere_volume">SphereVolume</string>
+    <string name="title_activity_ellipsoid_volume">EllipsoidVolume</string>
+
+</resources>
